@@ -1,0 +1,14 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore logs
+*.log
+
+# Ignore environment folders
+venv/
+.env/
+
+# Ignore data folders
+data/
+output/
